@@ -4,8 +4,7 @@ This is a simple train schedule app written using nodejs. It is intended to be u
 edited by fc
 
 # Running the app
-# This is a test1 commit
-#This is a test 2 commit
+
 It is not necessary to run this app locally in order to complete the learning activities, but if you wish to do so you will need a local installation of npm. Begin by installing the npm dependencies with:
 
     npm install
